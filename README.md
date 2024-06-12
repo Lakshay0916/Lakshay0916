@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lakshay0916
-- 👀 I’m interested in SwiftUI and Full Stack Development
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on iOS Projects
+- 👀 I’m interested in SwiftUI and Data Science
+- 🌱 I’m currently learning SwiftUI and python 
+- 💞️ I’m looking to collaborate on iOS and data scienceProjects
 - 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/lakshay-singhal-075710227/
 
 <!---
