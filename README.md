@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshay0916
 - 👀 I’m interested in App Development and Data Science
-- 🌱 I’m currently learning SwiftUI, Flutter, C++ and python 
+- 🌱 I’m currently learning Flutter, C++ and python 
 - 💞️ I’m looking to collaborate on App Development and data science Projects
 - 📫 How to reach me on LinkedIn - https://www.linkedin.com/in/lakshay-singhal-075710227/
 
